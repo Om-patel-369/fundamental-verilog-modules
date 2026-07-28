@@ -33,3 +33,5 @@ module univ_sft_reg #(parameter N=8)
       
       assign {cout,sum} = a+b+cin;
     endmodule
+
+    
